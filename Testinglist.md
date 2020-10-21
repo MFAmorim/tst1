@@ -1,4 +1,3 @@
-@
 # My List 
 * apple
 * bananas
