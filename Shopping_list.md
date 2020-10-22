@@ -2,3 +2,4 @@
 * bananas
 * maple sirup
 * rice
+* Coffee
