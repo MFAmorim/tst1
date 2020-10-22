@@ -1,5 +1,4 @@
-# My List 
-* apple
+# My List
 * bananas
 * maple sirup
 * rice
